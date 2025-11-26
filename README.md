@@ -50,6 +50,6 @@ npm install
 # Запуск в режиме разработки
 npm start
 Приложение будет доступно по адресу http://localhost:3000
-![Скриншот приложения1](./screenshots/main.png)
-![Скриншот приложения1](./screenshots/edit.png)
-![Скриншот приложения1](./screenshots/full.png)
+![Главный экран](https://raw.githubusercontent.com/artzajcew/noteapp/main/screenshots/main.png)
+![Редактирование](https://raw.githubusercontent.com/artzajcew/noteapp/main/screenshots/edit.png)
+![Все заметки](https://raw.githubusercontent.com/artzajcew/noteapp/main/screenshots/full.png)
